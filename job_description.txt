@@ -1,0 +1,13 @@
+We are looking for a Senior Machine Learning Engineer to join our Search & Recommendation team.
+
+Key Responsibilities:
+- Design and build end-to-end Retrieval Systems and Ranking Systems for large-scale production applications.
+- Work closely with vector search technologies and Vector Databases (e.g., Qdrant, Milvus, Pinecone) to perform semantic search.
+- Train and fine-tune state-of-the-art sentence Embeddings models.
+- Maintain and deploy Production ML pipelines in cloud environments.
+- Define and track online/offline Evaluation Metrics such as NDCG, MAP, and MRR.
+
+Requirements:
+- 5-9 years of professional experience in machine learning and software engineering.
+- Deep expertise in Python.
+- Proven experience with semantic search and learning-to-rank frameworks.
